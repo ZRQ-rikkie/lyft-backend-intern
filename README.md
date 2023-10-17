@@ -1,6 +1,6 @@
 # lyft-backend-intern
 
-**Thes tasks focus on :**
+**These tasks focus on :**
 
 * Back-end logic
 * Database management
@@ -30,4 +30,4 @@ Developing a component that is used by the rental fleet’s new logistics system
 
    **Flexible Service Criteria:** Make sure it's easy to add new service criteria or modify existing criteria by encapsulating this logic within the ServiceCriteria interface or abstract class.
    **Easy Part Substitution:** Design the Car class so that it's straightforward to change the Engine, Battery, or Tire for a car instance. This will cater to the requirement of changing which parts each car model includes.
-4. #### **Draft the UML Diagram:![1697583054619](image/README/1697583054619.png)**
+4. #### **Draft the UML Diagram:![1697583350895](image/README/1697583350895.png)**
